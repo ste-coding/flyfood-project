@@ -4,8 +4,8 @@ Este repositório contém a implementação de um algoritmo de força bruta para
 
 ### Estrutura do Repositório
 
-`brute-force.py`: Script Python que implementa o algoritmo de força bruta.
+`brute-force.py`: script Python que implementa o algoritmo de força bruta.
 
-`input.txt`: Arquivo de entrada contendo a matriz bidimensional representando o mapa de entregas.
+`input.txt`: arquivo de entrada contendo a matriz bidimensional representando o mapa de entregas.
 
-`tests.txt`: Arquivo contendo outras matrizes com diferentes tamanhos e densidades, utilizads para realizar teste de eficiência e tempo de execução.
+`tests.txt`: arquivo contendo outras matrizes com diferentes tamanhos e densidades, utilizadas para realizar teste de eficiência e tempo de execução.
